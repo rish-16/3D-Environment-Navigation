@@ -1,3 +1,5 @@
+# 3D Environment Navigation
+
 This repository contains experiments run on DeepMind Lab and custom 2D toy grid environments. Here are a list of trials run using different reward functions, models, and more:
 
 **Reward**
